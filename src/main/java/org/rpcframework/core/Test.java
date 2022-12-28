@@ -1,4 +1,4 @@
-package org.rainframework.core;
+package org.rpcframework.core;
 
 /***
  *<P>@author: 陈杰
